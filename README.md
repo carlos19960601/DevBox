@@ -11,9 +11,31 @@
 </p>
 
 
-## 📦 Utilities Screen
-
+## 📦 Screenshots
 
 **Home**
 
 ![](./screen/home.png)
+
+**JSON format**
+
+![](./screen/json-format.png)
+
+**Base64 Codec**
+
+![](./screen/base64.png)
+
+**UUID Generator**
+
+![](./screen/uuid-generator.png)
+
+**Nanoid Generator**
+
+![](./screen/nanoid-generator.png)
+
+## Download and install
+
+DevBox support macOS Silicon, macOS Intel, Linux and Windows.
+
+Download from [GitHub Releases](https://github.com/carlos19960601/DevBox/releases).
+
